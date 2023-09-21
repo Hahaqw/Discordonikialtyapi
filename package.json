@@ -1,0 +1,16 @@
+{
+    "name": "-discord-bot-altyapi",
+    "version": "0.0.1",
+    "description": " tarafindan yapilan bir altyapi",
+    "main": "bot.js",
+    "scripts": {
+      "test": "node bot.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {,
+      "discord.js": "^12.5.1"
+    },
+    "engines": {
+      "node": "16.x"
+  }
